@@ -1,6 +1,6 @@
 Django==2.1.5
 django-registration-redux==2.2
-Pillow==5.4.1
+Pillow==8.1.1
 pytz==2019.2
 virtualenv==16.7.4
 virtualenvwrapper-win==1.2.5
